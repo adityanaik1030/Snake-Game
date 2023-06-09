@@ -1,2 +1,2 @@
 # Snake-Game
-Our favourite snake game using python
+Our favourite snake game using python.
